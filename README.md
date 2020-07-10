@@ -2,7 +2,7 @@
 
 ## Hey! Welcome to my profile
 
-I'm a brazilian software developer and UI enthusiast.
+I'm a brazilian software developer, UI enthusiast and data fan.
 
 What I've been doing:
 - 🔭 I’m currently working on Big Data projects at [@dextra](https://dextra.com.br/en/)
