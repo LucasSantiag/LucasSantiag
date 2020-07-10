@@ -5,7 +5,7 @@
 I'm a brazilian software developer, UI enthusiast and chess lover.
 
 What I've been doing:
-- 🔭 I’m currently working on Big Data projects
+- 🔭 I’m currently working on Big Data projects at @dextra
 - 🌱 I’m currently learning multiples programming concepts
 - 🤔 I would love help anywhere
 
