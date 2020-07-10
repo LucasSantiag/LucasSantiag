@@ -2,12 +2,14 @@
 
 ## Hey! Welcome to my profile
 
-I'm a brazilian software developer.
+I'm a brazilian software developer, UI enthusiast and chess lover.
 
 What I've been doing:
 - 🔭 I’m currently working on Big Data projects
 - 🌱 I’m currently learning multiples programming concepts
 - 🤔 I would love help anywhere
+
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasSantiag)](https://github.com/LucasSantiag)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-santiago-cardoso-368046170/)](https://www.linkedin.com/in/lucas-santiago-cardoso-368046170/)
