@@ -1,7 +1,7 @@
 <p align="center">
    <samp>
      Hii, I'm <b style="color: purple">Lucas</b>
-     I'm a Software Engineer at Dextra;
+     <br>I'm a Software Engineer at Dextra;
    </samp>
 </p>
 
