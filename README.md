@@ -1,7 +1,7 @@
 <p align="center">
    <samp>
      Hii, I'm <b style="color: purple">Lucas</b>! <b>Software Engineer</b> at <a rel="nofollow noopener noreferrer" target="_blank" href="https://dextra.com.br/en/">Dextra</a>
-     <br>I'm a <b>Software Engineer</b>, <b>ui enthusiast</b> and <b>data fan</b> from Brazil
+     <br>I'm a Computer Engineering Undergraduate Student, ui enthusiast and data fan from Brazil
      <br><br>#spark, #data, #functional, #science
    </samp>
 </p>
