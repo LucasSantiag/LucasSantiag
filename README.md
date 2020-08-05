@@ -1,4 +1,4 @@
-<p align="center">
+<p align="">
    <samp>
      Hii, I'm <b style="color: purple">Lucas</b>! <b>Software Engineer</b> at <a rel="nofollow noopener noreferrer" target="_blank" href="https://dextra.com.br/en/">Dextra</a>
      <br>I'm a computer cngineering undergraduate student, ui enthusiast and data fan from Brazil
