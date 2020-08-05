@@ -1,6 +1,6 @@
 <p align="center">
    <samp>
-    # Hii, I'm <b style="color: purple">Lucas</b>
+     <h1>Hii, I'm <b style="color: purple">Lucas</b></h1>
      <br>I'm a Software Engineer from Brazil
      <br><br>#spark, #data, #functional, # 
    </samp>
