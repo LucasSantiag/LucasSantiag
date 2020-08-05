@@ -1,8 +1,8 @@
 <p align="center">
    <samp>
      Hii, I'm <b style="color: purple">Lucas</b>
-     <br>I'm a Software Engineer from Brazil
-     <br><br>#spark, #data, #functional, # 
+     <br>I'm a <b>Software Engineer</b>, <b>UI enthusiast</b> and <b>data fan</b> from Brazil
+     <br><br>#spark, #data, #functional, #science
    </samp>
 </p>
 
