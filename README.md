@@ -1,7 +1,8 @@
 <p align="center">
    <samp>
-     Hii, I'm <b style="color: purple">Lucas</b>
-     <br>I'm a Software Engineer at Dextra;
+    # Hii, I'm <b style="color: purple">Lucas</b>
+     <br>I'm a Software Engineer from Brazil
+     <br><br>#spark, #data, #functional, # 
    </samp>
 </p>
 
